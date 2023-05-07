@@ -100,7 +100,7 @@ function App() {
 
       <div classname="attribution">
         Challenge by <a href="https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl/hub" >Frontend Mentor</a>.
-        Coded by <a href="https://www.frontendmentor.io/profile/Chious">Your Name Here</a>.
+        Coded by <a href="https://www.frontendmentor.io/profile/Chious">Chious</a>.
       </div>
 
 
